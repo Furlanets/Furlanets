@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello there 👋
+- 🌱 I’m currently in the second year of computer engineering
+- 🧑‍💼 I'm currently looking for a internship
+- 👍 Feel free to fork any of my repositories
+- ❓ Also feel free to ask me anything
 
 <!--
 **Furlanets/Furlanets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
