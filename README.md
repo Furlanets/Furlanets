@@ -4,10 +4,6 @@
 - 👍 Feel free to fork any of my repositories
 
 <div>
-<img loading="lazy" src="https://pythonacademy.com.br/assets/img/tired-resized.gif" target="_blank"></a>
-</div>
-
-<div>
 <a href="https://github.com/furlanets">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=furlanets&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=furlanets&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
